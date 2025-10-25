@@ -1,6 +1,8 @@
 # Student Management System
 
 Une application Spring Boot complète pour la gestion des étudiants avec API REST, base de données MySQL, et documentation Swagger.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76809ddc-6188-42f5-9183-7d102ae68942" />
+
 
 ## Fonctionnalités
 
